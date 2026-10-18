@@ -1,5 +1,4 @@
 # Linux-LOG-ANALYZER
-# Log Analyzer — XE105
 
 Authentication log analyzer for Linux (`/var/log/auth.log`).
 It extracts command usage and monitors authentication-related
